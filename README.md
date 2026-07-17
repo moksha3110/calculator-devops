@@ -1,4 +1,4 @@
-# 🚀 AWS DevOps CI/CD Pipeline for a Containerized Flask Calculator
+# 🚀 AWS DevOps CI/CD Pipeline for a Containerized Flask Calculator!
 
 A production-style DevOps project that demonstrates the complete CI/CD lifecycle using **Docker**, **Terraform**, **Amazon ECS Fargate**, **Amazon ECR**, and **GitHub Actions**.
 
